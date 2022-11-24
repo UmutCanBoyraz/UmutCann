@@ -1,0 +1,7 @@
+.NET Framework microsoft tarafından oluşturulmuştur. Yazılım geliştirmelerde kolaylık sağlayan bir programdır.
+İçerisinde yer alan kütüphaneler sayesinde kolayca masaüstü, web ve cep telefonu uygulamaları geliştirmeye imkan verir.
+.NET framework ile hazırlanan programların windows işletim sistemine uyumluluğunu sağlar.Güncel ve en stabil çalışan sürümü
+.NET Framework 6'dır.Common Language Runtime(CLR) Ortak Dil Çalışma Platformu, .NET altyapısında programların çalışmasını 
+denetler ve derler , programın işletim sistemiyle haberleşmesini sağlar. ve Class Library (CL) ise .NET platformunda 
+yazılım geliştirmeyi kolaylaştıran yüzlerce alt kütüphanelerden oluşur. Son olarak Common Intermediate Language ise ortak ara dildir
+derlenen kodlar ile bize .exe dosyası oluşturur.
