@@ -1,0 +1,4 @@
+Herhangi bir işi yapmak ya da bir problemi çözmek için adım adım uygulanan kurallar dizisine algoritma denir. 
+Algoritmada adımlar sırasıyla işlenmektedir. Algoritma, belirli biri işin/problemin sonucunu elde etmek için
+art arda uygulanacak adımların ve koşulları kesin-olarak ortaya koyar. 
+Bu adımlar, ilgili koşullar altında adım adım izlendiğinde bir sonuca ulaşılır. 
