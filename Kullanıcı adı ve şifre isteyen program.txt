@@ -1,13 +1,11 @@
 K.adı ve Şifre doğru olana kadar dönen program
 
-    string kadi, sifre;
-
-            for (int i = 1; 0 < i; i++)
+   for (int i = 1; 0 < i; i++)
             {
-                Console.WriteLine("Kullanıcı adını giriniz:");
-                kadi = Convert.ToString(Console.ReadLine());
+                Console.WriteLine("Kullanıcı adı giriniz:");
+                String kadi = Convert.ToString(Console.ReadLine());
                 Console.WriteLine("Şifrenizi giriniz:");
-                sifre = Convert.ToString(Console.ReadLine());
+                String sifre = Convert.ToString(Console.ReadLine());
                 if (kadi == "admin" && sifre == "123")
                 {
                     Console.WriteLine("Hoşgeldiniz...");
@@ -19,14 +17,14 @@ K.adı ve Şifre doğru olana kadar dönen program
 3 kere hatalı girince bloke olan program
 
            
-            for (int i = 0; i < 3; i++)
+              for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine("Kullanıcı adı giriniz:");
-                String a = Convert.ToString(Console.ReadLine());
+                String kadi = Convert.ToString(Console.ReadLine());
                 Console.WriteLine("Şifrenizi giriniz:");
-                String b = Convert.ToString(Console.ReadLine());
+                String sifre = Convert.ToString(Console.ReadLine());
 
-                if (a=="admin" && b=="123" )
+                if (kadi == "admin" && sifre == "123")
                 {
                     Console.WriteLine("Hoşgeldiniz...");
                     return;
